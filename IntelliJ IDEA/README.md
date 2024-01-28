@@ -14,3 +14,4 @@
 ## new ui
 - show main menu bar in seperate toolbar
 - file -> view -> uncheck toolbar
+![image](https://github.com/rookiebyte/idea-setups/assets/41591668/d629ecaf-ea04-4de6-aebf-550280ddd3a3)
