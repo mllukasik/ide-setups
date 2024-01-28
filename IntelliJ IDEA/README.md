@@ -11,3 +11,6 @@
 
 ## IdeaVim
 - .ideavimrc
+## new ui
+- show main menu bar in seperate toolbar
+- file -> view -> uncheck toolbar
