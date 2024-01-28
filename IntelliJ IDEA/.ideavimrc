@@ -1,5 +1,5 @@
 set scrolloff=20
-set clipboard+=unnamed
+set clipboard+=unnamedplus
 vnoremap c "_d
 
 sethandler <C-B> a:ide
