@@ -26,4 +26,6 @@ build/
 ### VS Code ###
 .vscode/
 
-secrets.yml
+### nvim ###
+lazy-lock.json
+
