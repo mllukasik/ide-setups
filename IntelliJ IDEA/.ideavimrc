@@ -1,6 +1,7 @@
 set scrolloff=20
 set clipboard+=unnamedplus
 vnoremap c "_d
+xnoremap p pgvy
 
 sethandler <C-B> a:ide
 sethandler <C-C> a:ide
