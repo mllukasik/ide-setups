@@ -1,5 +1,11 @@
 # Intellij IDEA
 
+## Appearance
+
+### Appearance & Begavior > Apperance
+- Compact mode -> ON
+- Main menu: Merge with Main Tool
+
 ## Keymap
 
 Main Menu > Run > Edit Configurations | Ctrl + Shift + G
